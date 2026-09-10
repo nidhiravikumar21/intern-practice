@@ -1,0 +1,9 @@
+nohup: ignoring input
+
+> intern-practice@1.0.0 dev
+> node --watch src/server.js
+
+Server listening on http://localhost:3001
+Failed running 'src/server.js'
+Restarting 'src/server.js'
+Server listening on http://localhost:3001
